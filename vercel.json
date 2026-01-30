@@ -1,0 +1,8 @@
+{
+  "framework": "create-react-app",
+  "functions": {
+    "api/*.js": {
+      "maxDuration": 120
+    }
+  }
+}
